@@ -1,5 +1,5 @@
 # How-to-create-free-rdp
-#setup
+# setup
 download the windows yml file in the code
 
 create a new repo and type anythigs you like 
@@ -12,7 +12,8 @@ then select your repo
 
 then open the terminal and type this commands
 
-#Commands
+# commands
+
 type :sudo apt update: and enter
 
 then type :sudo apt install 
@@ -28,8 +29,7 @@ then wait to finish the setup
 
 then your rdp is created
 
-enjoy!
-#finish
-
+enjoy!!!!!!!
+# finish
 
 you can try this pc or mobile phone
