@@ -6,10 +6,10 @@ services:
       VERSION: "11"
       USERNAME: "moooooop"
       PASSWORD: "admin@123"
-      RAM_SIZE: "6G"
+      RAM_SIZE: "8G"
       CPU_CORES: "4"
       DISK_SIZE: "1000G"
-      DISK2_SIZE: "900G"
+      DISK2_SIZE: "1000G"
     devices:
       - /dev/kvm
       - /dev/net/tun
@@ -19,5 +19,5 @@ services:
       - "8006:8006"
       - "3389:3389/tcp"
       - "3389:3389/udp"
-    stop_grace_period: 90m
-m
+    stop_grace_period: 2m
+
